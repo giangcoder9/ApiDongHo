@@ -1,0 +1,16 @@
+D:\QLBH\QLBHANG\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+D:\QLBH\QLBHANG\Application\bin\Debug\netcoreapp3.1\Application.dll
+D:\QLBH\QLBHANG\Application\bin\Debug\netcoreapp3.1\Application.pdb
+D:\QLBH\QLBHANG\Application\bin\Debug\netcoreapp3.1\Data.dll
+D:\QLBH\QLBHANG\Application\bin\Debug\netcoreapp3.1\Data.entities.dll
+D:\QLBH\QLBHANG\Application\bin\Debug\netcoreapp3.1\Data.entities.pdb
+D:\QLBH\QLBHANG\Application\bin\Debug\netcoreapp3.1\Data.pdb
+D:\QLBH\QLBHANG\Application\obj\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
+D:\QLBH\QLBHANG\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+D:\QLBH\QLBHANG\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+D:\QLBH\QLBHANG\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+D:\QLBH\QLBHANG\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+D:\QLBH\QLBHANG\Application\obj\Debug\netcoreapp3.1\Application.dll
+D:\QLBH\QLBHANG\Application\obj\Debug\netcoreapp3.1\Application.pdb
+D:\QLBH\QLBHANG\Application\obj\Debug\netcoreapp3.1\Application.Properties.Resource1.resources
+D:\QLBH\QLBHANG\Application\obj\Debug\netcoreapp3.1\Application.csproj.GenerateResource.cache

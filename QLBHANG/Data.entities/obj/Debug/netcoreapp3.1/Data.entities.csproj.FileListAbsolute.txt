@@ -1,0 +1,15 @@
+D:\QLBH\QLBHANG\Data.entities\bin\Debug\netcoreapp3.1\Data.entities.deps.json
+D:\QLBH\QLBHANG\Data.entities\bin\Debug\netcoreapp3.1\Data.entities.dll
+D:\QLBH\QLBHANG\Data.entities\obj\Debug\netcoreapp3.1\Data.entities.AssemblyInfoInputs.cache
+D:\QLBH\QLBHANG\Data.entities\obj\Debug\netcoreapp3.1\Data.entities.AssemblyInfo.cs
+D:\QLBH\QLBHANG\Data.entities\obj\Debug\netcoreapp3.1\Data.entities.csprojAssemblyReference.cache
+D:\QLBH\QLBHANG\Data.entities\bin\Debug\netcoreapp3.1\Data.entities.runtimeconfig.json
+D:\QLBH\QLBHANG\Data.entities\bin\Debug\netcoreapp3.1\Data.entities.runtimeconfig.dev.json
+D:\QLBH\QLBHANG\Data.entities\obj\Debug\netcoreapp3.1\Data.entities.genruntimeconfig.cache
+D:\QLBH\QLBHANG\Data.entities\bin\Debug\netcoreapp3.1\Data.entities.pdb
+D:\QLBH\QLBHANG\Data.entities\bin\Debug\netcoreapp3.1\Data.dll
+D:\QLBH\QLBHANG\Data.entities\bin\Debug\netcoreapp3.1\Data.pdb
+D:\QLBH\QLBHANG\Data.entities\obj\Debug\netcoreapp3.1\Data.entities.csproj.CopyComplete
+D:\QLBH\QLBHANG\Data.entities\obj\Debug\netcoreapp3.1\Data.entities.dll
+D:\QLBH\QLBHANG\Data.entities\obj\Debug\netcoreapp3.1\Data.entities.pdb
+D:\QLBH\QLBHANG\Data.entities\obj\Debug\netcoreapp3.1\Data.entities.csproj.CoreCompileInputs.cache

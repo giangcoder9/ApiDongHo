@@ -1,0 +1,12 @@
+D:\QLBH\QLBHANG\Data.enti\bin\Debug\netstandard2.0\Data.enti.deps.json
+D:\QLBH\QLBHANG\Data.enti\bin\Debug\netstandard2.0\Data.enti.dll
+D:\QLBH\QLBHANG\Data.enti\obj\Debug\netstandard2.0\Data.enti.csprojAssemblyReference.cache
+D:\QLBH\QLBHANG\Data.enti\obj\Debug\netstandard2.0\Data.enti.AssemblyInfoInputs.cache
+D:\QLBH\QLBHANG\Data.enti\obj\Debug\netstandard2.0\Data.enti.AssemblyInfo.cs
+D:\QLBH\QLBHANG\Data.enti\bin\Debug\netstandard2.0\Data.dll
+D:\QLBH\QLBHANG\Data.enti\bin\Debug\netstandard2.0\Data.enti.pdb
+D:\QLBH\QLBHANG\Data.enti\bin\Debug\netstandard2.0\Data.pdb
+D:\QLBH\QLBHANG\Data.enti\obj\Debug\netstandard2.0\Data.enti.csproj.CopyComplete
+D:\QLBH\QLBHANG\Data.enti\obj\Debug\netstandard2.0\Data.enti.dll
+D:\QLBH\QLBHANG\Data.enti\obj\Debug\netstandard2.0\Data.enti.pdb
+D:\QLBH\QLBHANG\Data.enti\obj\Debug\netstandard2.0\Data.enti.csproj.CoreCompileInputs.cache
